@@ -18,7 +18,7 @@ tasks.shadowJar {
             "Main-Class" to "com.carter.speers.Main" // Replace with your main class
         )
     }
-    archiveBaseName.set("jarfast") // Custom base name
+    archiveBaseName.set("fastjar") // Custom base name
     archiveVersion.set("") // Custom version
     archiveClassifier.set("") // Custom classifier
 }
